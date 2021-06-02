@@ -18,16 +18,20 @@ subtitle:
 feature:
 - description:
   icon: python
-  icon_pack: fab
+  icon_pack: custom
   name: Python
+# - description:
+#   icon: python
+#   icon_pack: fab
+#   name: Python
 - description:
   icon: apache-spark
   icon_pack: custom
   name: Apache Spark
 - description:
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  icon: postgres
+  icon_pack: custom
+  name: SQL
 # - description: #90%
 #   icon: r-project
 #   icon_pack: fab

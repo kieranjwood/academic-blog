@@ -21,29 +21,65 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Vice President, Analytics Modernisation & Data Science
+    company: Guy Carpenter
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    # company_logo: org-gc
+    location: London
+    date_start: '2019-04-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Development Analyst, Catastrophe Modelling R&D
+    company: JLT Reinsurance Brokers
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    # company_logo: org-gc
+    location: London
+    date_start: '2015-09-01'
+    date_end: '2019-04-01'
+  - title: Aerospace Engineer Intern
+    company: Insitu Pacific, Boeing Australia
+    company_url: ''
+    # company_logo: org-gc
+    location: Brisbane
+    date_start: '2014-03-01'
+    date_end: '2014-09-01'
+  - title: Mechanical Engineer Intern
+    company: Cochlear
+    company_url: ''
+    # company_logo: org-gc
+    location: Brisbane
+    date_start: '2013-11-01'
+    date_end: '2014-03-01'
+  - title: Mathematics Tutor
+    company: University of Queensland
+    company_url: ''
+    # company_logo: org-gc
+    location: Brisbane
+    date_start: '2012-03-01'
+    date_end: '2014-09-01'   
+#   - title: CEO
+#     company: GenCoin
+#     company_url: ''
+#     company_logo: org-gc
+#     location: California
+#     date_start: '2021-01-01'
+#     date_end: ''
+#     description: |2-
+#         Responsibilities include:
+        
+#         * Analysing
+#         * Modelling
+#         * Deploying
+        
+#   - title: Professor of Semiconductor Physics
+#     company: University X
+#     company_url: ''
+#     company_logo: org-x
+#     location: California
+#     date_start: '2016-01-01'
+#     date_end: '2020-12-31'
+#     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
