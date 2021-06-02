@@ -21,9 +21,9 @@ feature:
   icon_pack: fab
   name: Python
 - description:
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
+  icon: apache-spark
+  icon_pack: custom
+  name: Apache Spark
 - description:
   icon: camera-retro
   icon_pack: fas
