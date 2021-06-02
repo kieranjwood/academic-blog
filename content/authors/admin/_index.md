@@ -79,12 +79,7 @@ email: ""
 highlight_name: false
 ---
 
-Kieran Wood is a DPhil student at the University of Oxford, in the Department of Engineering Science. He is part of the Machine Learning Research Group and a member of the Oxford Man Institute of Quantitative Finance. His core research interests lie in using deep learning for time-series forecasting, with a focus on momentum trading. Recent work has involved incorporating a changepoint detection module into trading strategies, to improve performance. Kieran is supervised by Prof. Stephen Roberts and Prof. Stefan Zohren. Kieran also works at Guy Carpenter, as Vice President in Analytics Modernisation and Data Science, where he works with the Catastrophe Modelling and Actuarial tems to build quantitative tools.
-
-
-<!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
+Kieran Wood is a DPhil student at the University of Oxford, in the Department of Engineering Science. He is part of the Machine Learning Research Group and a member of the Oxford Man Institute of Quantitative Finance. His core research interests lie in using deep learning for time-series forecasting, with a focus on momentum trading. Recent work has involved incorporating a changepoint detection module into trading strategies, to improve performance. Kieran is supervised by Prof. Stephen Roberts and Prof. Stefan Zohren. Kieran also works at Guy Carpenter, as Vice President in Analytics Modernisation and Data Science, where he works with the Catastrophe Modelling and Actuarial teams to build quantitative tools.
 
 <!-- Download CV -->
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
