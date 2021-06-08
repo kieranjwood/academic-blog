@@ -41,11 +41,11 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: PDF
+  url: https://arxiv.org/pdf/2105.13727.pdf
 
-url_pdf: 'https://arxiv.org/pdf/2105.13727.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
