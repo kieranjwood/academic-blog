@@ -55,9 +55,9 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#   icon_pack: fas
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=hyoQpv4AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/kieranjwood
