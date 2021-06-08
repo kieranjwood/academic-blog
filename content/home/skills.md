@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 60
 
 title: Skills
 subtitle:
@@ -32,6 +32,19 @@ feature:
   icon: postgres
   icon_pack: custom
   name: SQL
+- description:
+  icon: tensorflow
+  icon_pack: custom
+  name: TensorFlow
+- description:
+  icon: azure-databricks
+  icon_pack: custom
+  name: Azure Databricks
+- description:
+  icon: c-sharp
+  icon_pack: custom
+  name: C#
+
 # - description: #90%
 #   icon: r-project
 #   icon_pack: fab
