@@ -14,7 +14,7 @@ Then, publish with:
 ```shellscript
 cd public
 git add .
-git commit -m "<commit message>"
+git commit -m "website updated"
 git push https://github.com/kieranjwood/kieranjwood.github.io.git
 ```
 
