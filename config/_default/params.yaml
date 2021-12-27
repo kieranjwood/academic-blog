@@ -5,9 +5,9 @@
 
 # Appearance
 
-# theme: minimal
+theme: minimal
 # theme: ocean
-theme: mr_robot
+# theme: mr_robot
 # day_night: false
 day_night: true
 font: ''

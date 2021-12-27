@@ -23,13 +23,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Senior Pricing Analyst, Insurance Linked Securities & Reinsurance
+    company: IQUW
+    company_url: ''
+    # company_logo: org-gc
+    location: London
+    date_start: '2021-08-01'
+    date_end: ''
   - title: Vice President, Analytics Modernisation & Data Science
     company: Guy Carpenter
     company_url: ''
     # company_logo: org-gc
     location: London
     date_start: '2019-04-01'
-    date_end: ''
+    date_end: '2021-08-01'
   - title: Development Analyst, Catastrophe Modelling R&D
     company: JLT Reinsurance Brokers
     company_url: ''

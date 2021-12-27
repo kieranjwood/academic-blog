@@ -39,7 +39,7 @@ feature:
 - description:
   icon: azure-databricks
   icon_pack: custom
-  name: Azure Databricks
+  name: Databricks
 - description:
   icon: c-sharp
   icon_pack: custom

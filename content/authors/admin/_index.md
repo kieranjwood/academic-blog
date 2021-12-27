@@ -79,7 +79,7 @@ email: ""
 highlight_name: false
 ---
 
-Kieran Wood is a DPhil student at the University of Oxford, in the Department of Engineering Science. He is part of the Machine Learning Research Group and a member of the Oxford Man Institute of Quantitative Finance. His core research interests lie in using deep learning for time-series forecasting, with a focus on momentum trading. Recent work has involved incorporating a changepoint detection module into trading strategies, to improve performance. Kieran is supervised by Prof. Stephen Roberts and Prof. Stefan Zohren. Kieran also works at Guy Carpenter, as Vice President in Analytics Modernisation and Data Science, where he works with the Catastrophe Modelling and Actuarial teams to build quantitative tools.
+Kieran Wood is a DPhil student at the University of Oxford, where he is part of the Machine Learning Research Group and a member of the Oxford Man Institute of Quantitative Finance. His core research interests lie in using deep learning for time-series forecasting, with a focus on momentum trading. Kieran is supervised by Prof. Stephen Roberts and Prof. Stefan Zohren. Additionally, Kieran works at IQUW, a new data-driven insurance company, as Senior Pricing Analyst, focussing on Insurance Linked Securities (ILS) and Reinsurance. Previously, Kieran was at Guy Carpenter, as Vice President in Analytics Modernisation and Data Science, building quantitative tools.
 
 <!-- Download CV -->
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
