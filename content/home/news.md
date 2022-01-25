@@ -24,6 +24,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - date_end: ""
+  date_start: "2022-01-05"
+  organization: "GitHub"
+  organization_url: https://github.com/kieranjwood
+  title: Code Release
+  description: "Code for [Trading with the Momentum Transformer](https://github.com/kieranjwood/trading-momentum-transformer) and [Slow Momentum with Fast Reversion](https://github.com/kieranjwood/slow-momentum-fast-reversion) is now available."
+  url: "https://github.com/kieranjwood/trading-momentum-transformer"
+- date_end: ""
   date_start: "2021-12-17"
   organization: "arXiv"
   organization_url: https://arxiv.org/
