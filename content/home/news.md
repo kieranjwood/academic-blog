@@ -24,6 +24,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - date_end: ""
+  date_start: "2022-07-05"
+  organization: "arXiv"
+  organization_url: https://arxiv.org/
+  title: Trading with the Momentum Transformer
+  description: "An updated pre-print is now available."
+  url: "https://arxiv.org/abs/2112.08534"
+- date_end: ""
   date_start: "2022-01-05"
   organization: "GitHub"
   organization_url: https://github.com/kieranjwood
@@ -43,7 +50,7 @@ item:
   organization_url: https://jfds.pm-research.com
   title: Slow Momentum with Fast Reversion
   description: "Our paper, using deep learning and changepoint detection for momentum trading, is appearing in the Winter 2022 edition of the Journal of Financial Data Science."
-  url: "https://jfds.pm-research.com/content/early/2021/12/09/jfds.2021.1.081"
+  url: "https://doi.org/10.3905/jfds.2021.1.081"
 
 design:
   columns: '2' 
