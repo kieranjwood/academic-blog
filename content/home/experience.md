@@ -23,13 +23,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Quant
+    company: Caxton Associates
+    company_url: ''
+    # company_logo: org-gc
+    location: London
+    date_start: '2023-07-01'
+    date_end: ''
   - title: Portfolio Optimisation Lead, Portfolio Management
     company: IQUW
     company_url: ''
     # company_logo: org-gc
     location: London
     date_start: '2022-08-01'
-    date_end: ''
+    date_end: '2023-07-01'
   - title: Senior Pricing Analyst, Insurance Linked Securities & Reinsurance
     company: IQUW
     company_url: ''

@@ -58,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Pexels**](https://www.pexels.com/photo/magnifying-glass-on-top-of-document-6801648/)'
+  caption: 'Image credit: [**Pexels**](https://www.pexels.com/photo/stock-exchange-board-210607/)'
   focal_point: ""
   preview_only: false
 

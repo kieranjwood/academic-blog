@@ -24,9 +24,23 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - date_end: ""
+  date_start: "2023-10-18"
+  organization: "arXiv"
+  organization_url: https://arxiv.org/abs/2310.10500
+  title: Few-Shot Learning Patterns in Financial Time-Series for Trend-Following Strategies
+  description: "The pre-print of our latest paper is now available."
+  url: "https://arxiv.org/abs/2310.10500"
+- date_end: ""
+  date_start: "2023-03-01"
+  organization: "Risk"
+  organization_url: https://www.risk.net/cutting-edge
+  title: Trading with the Momentum Transformer (an interpretable deep learning architecture)
+  description: "Our paper appeared in the March 2023 edition of Risk magazine."
+  url: "https://www.risk.net/cutting-edge/7956074/trading-with-the-momentum-transformer-an-interpretable-deep-learning-architecture"
+- date_end: ""
   date_start: "2022-07-05"
   organization: "arXiv"
-  organization_url: https://arxiv.org/
+  organization_url: https://arxiv.org/abs/2112.08534
   title: Trading with the Momentum Transformer
   description: "An updated pre-print is now available."
   url: "https://arxiv.org/abs/2112.08534"
@@ -40,7 +54,7 @@ item:
 - date_end: ""
   date_start: "2021-12-17"
   organization: "arXiv"
-  organization_url: https://arxiv.org/
+  organization_url: https://arxiv.org/abs/2112.08534
   title: Trading with the Momentum Transformer
   description: "The pre-print of our latest paper is now available."
   url: "https://arxiv.org/abs/2112.08534"

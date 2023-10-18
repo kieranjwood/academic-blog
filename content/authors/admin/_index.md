@@ -10,7 +10,7 @@ role: DPhil in Machine Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Oxford Man Institute of Quantitative Finance  
+- name: Oxford-Man Institute of Quantitative Finance  
   url: https://www.oxford-man.ox.ac.uk/
 - name: Machine Learning Research Group
   url: https://www.robots.ox.ac.uk/~parg/
@@ -79,7 +79,7 @@ email: ""
 highlight_name: false
 ---
 
-Kieran Wood is a DPhil candidate at the University of Oxford, where he is part of the Machine Learning Research Group and a member of the Oxford Man Institute of Quantitative Finance. His core research interests lie in using deep learning for time-series forecasting, with a focus on momentum trading. Kieran is supervised by Prof. Stephen Roberts and Prof. Stefan Zohren. Additionally, Kieran works at IQUW, a new data-driven insurance company, as Portfolio Optimisation Lead, Portfolio Management. Previously, Kieran was at Guy Carpenter, as Vice President in Analytics Modernisation and Data Science.
+Kieran Wood is a DPhil candidate at the University of Oxford, where he is a member of the Machine Learning Research Group and the Oxford-Man Institute of Quantitative Finance. His core research interests lie in using deep learning for time-series forecasting, with a focus on trading momentum and mean-reversion. Kieran is supervised by Prof. Stephen Roberts and Prof. Stefan Zohren. Additionally, Kieran works at Caxton Associates as a Quant. Previously, he worked in the insurance industry at IQUW, as Portfolio Optimisation Lead, and formerly at Guy Carpenter, as VP in Analytics Modernisation and Data Science.
 
 <!-- Download CV -->
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
