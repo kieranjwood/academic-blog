@@ -81,5 +81,9 @@ highlight_name: false
 
 Kieran Wood is a DPhil candidate at the University of Oxford, where he is a member of the Machine Learning Research Group and the Oxford-Man Institute of Quantitative Finance. His core research interests lie in using deep learning for time-series forecasting, with a focus on trading momentum and mean-reversion. Kieran is supervised by Prof. Stephen Roberts and Prof. Stefan Zohren. Additionally, Kieran works at Caxton Associates as a Quant. Previously, he worked in the insurance industry at IQUW, as Portfolio Optimisation Lead, and formerly at Guy Carpenter, as VP in Analytics Modernisation and Data Science.
 
+[Google Scholar](https://scholar.google.com/citations?user=hyoQpv4AAAAJ) ·
+  [GitHub](https://github.com/kieranjwood) ·
+  [LinkedIn](https://www.linkedin.com/in/kieran-j-wood1/)
+
 <!-- Download CV -->
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

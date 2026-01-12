@@ -75,3 +75,15 @@ related:
       weight: 100
     - name: categories
       weight: 70
+security:
+  funcs:
+    getenv:
+      - '^HUGO_'
+      - '^CI$'
+      - '^WC_'
+security:
+  funcs:
+    getenv:
+      - '^HUGO_'
+      - '^CI$'
+      - '^WC_'
