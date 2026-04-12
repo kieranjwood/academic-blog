@@ -24,6 +24,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - date_end: ""
+  date_start: "2026-04-12"
+  organization: "GitHub"
+  organization_url: https://github.com/kieranjwood
+  title: "Code Releases"
+  description: "Code is now available for [DeePM](https://github.com/kieranjwood/deepm) and [Deep Financial Benchmark](https://github.com/Adir7SK/deep_fin_benchmark)."
+  url: "https://github.com/kieranjwood/deepm"
+- date_end: ""
+  date_start: "2026-03-02"
+  organization: "arXiv"
+  organization_url: https://arxiv.org/abs/2603.01820
+  title: "Deep Learning for Financial Time Series: A Large-Scale Benchmark of Risk-Adjusted Performance"
+  description: "New preprint now available on arXiv."
+  url: "https://arxiv.org/abs/2603.01820"
+- date_end: ""
   date_start: "2026-01-12"
   organization: "arXiv"
   organization_url: https://arxiv.org/abs/2601.05975

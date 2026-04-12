@@ -81,9 +81,3 @@ security:
       - '^HUGO_'
       - '^CI$'
       - '^WC_'
-security:
-  funcs:
-    getenv:
-      - '^HUGO_'
-      - '^CI$'
-      - '^WC_'

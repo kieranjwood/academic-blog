@@ -23,13 +23,19 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: Quant
+  - title: AI Solutions Architect
+    company: NVIDIA
+    company_url: 'https://www.nvidia.com/'
+    location: ''
+    date_start: '2026-02-01'
+    date_end: ''
+  - title: Quant Researcher
     company: Caxton Associates
     company_url: ''
     # company_logo: org-gc
     location: London
     date_start: '2023-07-01'
-    date_end: ''
+    date_end: '2026-01-31'
   - title: Portfolio Optimisation Lead, Portfolio Management
     company: IQUW
     company_url: ''

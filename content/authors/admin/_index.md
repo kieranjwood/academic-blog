@@ -6,7 +6,7 @@ title: Kieran Wood
 superuser: true
 
 # Role/position/tagline
-role: DPhil in Machine Learning
+role: DPhil in Machine Learning, Oxford · AI Solutions Architect, NVIDIA
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -16,15 +16,18 @@ organizations:
   url: https://www.robots.ox.ac.uk/~parg/
 - name: University of Oxford
   url: https://www.ox.ac.uk/
+- name: NVIDIA
+  url: https://www.nvidia.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep learning for time-series forecasting, momentum trading and Bayesian deep learning.
+bio: Latent regime structure and non-stationary time series; deep learning for forecasting and sequential decision-making.
 
 # Interests to show in About widget
 interests:
 - Deep Learning for Time-series Forecasting
 - Changepoint Detection
-- Momentum Trading
+- Systematic Trading & Portfolio Management
+- Kernel Methods (including Gaussian Processes)
 - Continual and Meta Learning
 - Bayesian Deep Learning
 
@@ -79,7 +82,9 @@ email: ""
 highlight_name: false
 ---
 
-Kieran Wood is a DPhil candidate at the University of Oxford, where he is a member of the Machine Learning Research Group and the Oxford-Man Institute of Quantitative Finance. His core research interests lie in using deep learning for time-series forecasting, with a focus on trading momentum and mean-reversion. Kieran is supervised by Prof. Stephen Roberts and Prof. Stefan Zohren. Additionally, Kieran works at Caxton Associates as a Quant. Previously, he worked in the insurance industry at IQUW, as Portfolio Optimisation Lead, and formerly at Guy Carpenter, as VP in Analytics Modernisation and Data Science.
+Kieran Wood is completing a DPhil with the Machine Learning Research Group and the Oxford-Man Institute of Quantitative Finance at the University of Oxford, supervised by Professor Stephen Roberts and Professor Stefan Zohren. His doctoral research focuses on learning to disentangle latent regime structure in non-stationary time series, with applications to sequential decision-making and forecasting under distribution shift.
+
+He is an AI Solutions Architect at NVIDIA. Previously, he spent three years as a Quantitative Researcher at Caxton Associates, a global macro hedge fund, where he developed and managed systematic trading strategies across futures and foreign exchange. Earlier, he worked in the (re)insurance industry, most recently at IQUW as Portfolio Optimisation Lead, and previously at Guy Carpenter as Vice President in Analytics Modernisation and Data Science.
 
 [Google Scholar](https://scholar.google.com/citations?user=hyoQpv4AAAAJ) ·
   [GitHub](https://github.com/kieranjwood) ·

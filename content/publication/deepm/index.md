@@ -25,12 +25,15 @@ summary: >
 tags: []
 
 featured: true
+weight: 200
 
 links:
 - name: PDF
   url: https://arxiv.org/pdf/2601.05975.pdf
 - name: arXiv
   url: https://arxiv.org/abs/2601.05975
+- name: Code
+  url: https://github.com/kieranjwood/deepm
 
 url_pdf: ''
 url_code: ''

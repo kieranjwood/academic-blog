@@ -17,6 +17,8 @@ content:
   page_type: publication
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
+  # Sort by front matter weight so we can pin manual order.
+  sort_by: weight
   # Filter on criteria
   filters:
     author: ""
