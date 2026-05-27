@@ -1,15 +1,25 @@
 <p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Template for Wowchemy Website Builder"></a></p>
 
 # Instructions
-Preview website:
+Prerequisites:
+- Hugo Extended (recommended: `v0.83.1` for this project)
+- Go (required for Hugo modules)
+
+Preview website locally:
 ```shellscript
-hugo server
+hugo server -D
 ```
 
-Build website with:
+Production build:
 ```shellscript
-hugo -D
+hugo --gc --minify --cleanDestinationDir
 ```
+
+If deploying to a specific domain, set base URL during build:
+```shellscript
+hugo --gc --minify --cleanDestinationDir -b "https://<your-domain>/"
+```
+
 Then, publish with:
 ```shellscript
 cd public

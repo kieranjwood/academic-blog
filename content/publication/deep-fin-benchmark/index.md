@@ -46,8 +46,8 @@ url_source: ''
 url_video: ''
 
 image:
-  caption: 'Image credit: [**Pexels**](https://www.pexels.com/photo/stock-exchange-board-210607/)'
-  url: 'https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=1200'
+  caption: 'Image credit: [**Pexels / Arturo Añez**](https://www.pexels.com/photo/a-stock-chart-with-green-and-red-lines-27288569/)'
+  url: 'https://images.pexels.com/photos/27288569/pexels-photo-27288569.jpeg?auto=compress&cs=tinysrgb&w=1200'
   focal_point: ""
   preview_only: false
 ---
