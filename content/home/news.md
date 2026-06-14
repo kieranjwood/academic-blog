@@ -24,6 +24,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - date_end: ""
+  date_start: "2026-05-30"
+  organization: "arXiv"
+  organization_url: https://arxiv.org/abs/2606.00624
+  title: "Macro-aware time series forecasting via hierarchical mixed-frequency attention models"
+  description: "New preprint now available on arXiv."
+  url: "https://arxiv.org/abs/2606.00624"
+- date_end: ""
   date_start: "2026-05-19"
   organization: "arXiv"
   organization_url: https://arxiv.org/abs/2605.19231
